@@ -1,0 +1,14 @@
+# Node modules directory
+/node_modules
+/.wwebjs_auth
+/.wwejs_cache
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
